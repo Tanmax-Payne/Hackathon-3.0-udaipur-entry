@@ -1,0 +1,952 @@
+[
+  {
+    "B. NO.": 1,
+    "FROM": "UDAIPUR",
+    "TO": "MOUNT ABU",
+    "VIA": "PINDWARA",
+    "DEPARTURE\nTIME": 5,
+    "ARRIVAL\nTIME": 10.15,
+    "DISTANCE": 184,
+    "BUS TYPE": "EXP"
+  },
+  {
+    "B. NO.": 2,
+    "FROM": "JODHPUR",
+    "TO": "MOUNT ABU",
+    "VIA": "PALI",
+    "DEPARTURE\nTIME": 5.15,
+    "ARRIVAL\nTIME": 13.15,
+    "DISTANCE": 293,
+    "BUS TYPE": "EXP"
+  },
+  {
+    "B. NO.": 3,
+    "FROM": "ABUROAD",
+    "TO": "JAIPUR",
+    "VIA": "PALI",
+    "DEPARTURE\nTIME": 5.3,
+    "ARRIVAL\nTIME": 17,
+    "DISTANCE": 492,
+    "BUS TYPE": "STAR LINE"
+  },
+  {
+    "B. NO.": 4,
+    "FROM": "JODHPUR",
+    "TO": "AMBAJI",
+    "VIA": "PALI-SIROHI",
+    "DEPARTURE\nTIME": 5.45,
+    "ARRIVAL\nTIME": 13.3,
+    "DISTANCE": 289,
+    "BUS TYPE": "EXP"
+  },
+  {
+    "B. NO.": 5,
+    "FROM": "BARODA",
+    "TO": "REVDAR",
+    "VIA": "AHMEDABAD-MEHSANA",
+    "DEPARTURE\nTIME": 6,
+    "ARRIVAL\nTIME": 14.3,
+    "DISTANCE": 361,
+    "BUS TYPE": "EXP"
+  },
+  {
+    "B. NO.": 6,
+    "FROM": "MOUNT ABU",
+    "TO": "AHMEDABAD",
+    "VIA": "PALANPUR",
+    "DEPARTURE\nTIME": 6,
+    "ARRIVAL\nTIME": 11.45,
+    "DISTANCE": 240,
+    "BUS TYPE": "EXP"
+  },
+  {
+    "B. NO.": 7,
+    "FROM": "ABUROAD",
+    "TO": "MOUNT ABU",
+    "VIA": "-",
+    "DEPARTURE\nTIME": 6,
+    "ARRIVAL\nTIME": 7,
+    "DISTANCE": 27,
+    "BUS TYPE": "ORD"
+  },
+  {
+    "B. NO.": 8,
+    "FROM": "UDAIPUR",
+    "TO": "ABUROAD",
+    "VIA": "PINDWARA",
+    "DEPARTURE\nTIME": 6,
+    "ARRIVAL\nTIME": 10,
+    "DISTANCE": 157,
+    "BUS TYPE": "EXP"
+  },
+  {
+    "B. NO.": 9,
+    "FROM": "ABUROAD",
+    "TO": "UDAIPUR",
+    "VIA": "PINDWARA",
+    "DEPARTURE\nTIME": 6,
+    "ARRIVAL\nTIME": 9,
+    "DISTANCE": 157,
+    "BUS TYPE": "STAR LINE"
+  },
+  {
+    "B. NO.": 10,
+    "FROM": "KHETLAJI",
+    "TO": "REVDAR",
+    "VIA": "RANI",
+    "DEPARTURE\nTIME": 6,
+    "ARRIVAL\nTIME": 11.45,
+    "DISTANCE": 185,
+    "BUS TYPE": "ORD"
+  },
+  {
+    "B. NO.": 11,
+    "FROM": "SIKAR",
+    "TO": "ABUROAD",
+    "VIA": "NAGAUR-JODHPUR",
+    "DEPARTURE\nTIME": 6.15,
+    "ARRIVAL\nTIME": 20,
+    "DISTANCE": 579,
+    "BUS TYPE": "EXP"
+  },
+  {
+    "B. NO.": 12,
+    "FROM": "JAIPUR",
+    "TO": "ABUROAD",
+    "VIA": "PALI",
+    "DEPARTURE\nTIME": 6.2,
+    "ARRIVAL\nTIME": 18,
+    "DISTANCE": 495,
+    "BUS TYPE": "STAR LINE"
+  },
+  {
+    "B. NO.": 13,
+    "FROM": "ABUROAD",
+    "TO": "AMBAJI",
+    "VIA": "-",
+    "DEPARTURE\nTIME": 6.3,
+    "ARRIVAL\nTIME": 7.3,
+    "DISTANCE": 23,
+    "BUS TYPE": "ORD"
+  },
+  {
+    "B. NO.": 14,
+    "FROM": "MOUNT ABU",
+    "TO": "ABUROAD",
+    "VIA": "-",
+    "DEPARTURE\nTIME": 6.3,
+    "ARRIVAL\nTIME": 7.3,
+    "DISTANCE": 27,
+    "BUS TYPE": "ORD"
+  },
+  {
+    "B. NO.": 15,
+    "FROM": "JODHPUR",
+    "TO": "REVDAR",
+    "VIA": "ANADRA-KAROTI",
+    "DEPARTURE\nTIME": 6.3,
+    "ARRIVAL\nTIME": 12.15,
+    "DISTANCE": 249,
+    "BUS TYPE": "EXP"
+  },
+  {
+    "B. NO.": 16,
+    "FROM": "SIROHI",
+    "TO": "JODHPUR",
+    "VIA": "PALI",
+    "DEPARTURE\nTIME": 6.3,
+    "ARRIVAL\nTIME": 10.45,
+    "DISTANCE": 195,
+    "BUS TYPE": "EXP"
+  },
+  {
+    "B. NO.": 17,
+    "FROM": "REVDAR",
+    "TO": "ABUROAD",
+    "VIA": "VASS",
+    "DEPARTURE\nTIME": 6.3,
+    "ARRIVAL\nTIME": 7.3,
+    "DISTANCE": 36,
+    "BUS TYPE": "ORD"
+  },
+  {
+    "B. NO.": 18,
+    "FROM": "ABUROAD",
+    "TO": "UDAIPUR",
+    "VIA": "PINDWARA",
+    "DEPARTURE\nTIME": 6.45,
+    "ARRIVAL\nTIME": 10.3,
+    "DISTANCE": 157,
+    "BUS TYPE": "EXP"
+  },
+  {
+    "B. NO.": 19,
+    "FROM": "ABUROAD",
+    "TO": "MOUNT ABU",
+    "VIA": "-",
+    "DEPARTURE\nTIME": 6.45,
+    "ARRIVAL\nTIME": 7.45,
+    "DISTANCE": 27,
+    "BUS TYPE": "STAR LINE"
+  },
+  {
+    "B. NO.": 20,
+    "FROM": "ABUROAD",
+    "TO": "SIKAR",
+    "VIA": "JODHPUR-NAGAUR",
+    "DEPARTURE\nTIME": 6.45,
+    "ARRIVAL\nTIME": 20.3,
+    "DISTANCE": 579,
+    "BUS TYPE": "EXP"
+  },
+  {
+    "B. NO.": 21,
+    "FROM": "ABUROAD",
+    "TO": "REVDAR",
+    "VIA": "VASS",
+    "DEPARTURE\nTIME": 7,
+    "ARRIVAL\nTIME": 8,
+    "DISTANCE": 36,
+    "BUS TYPE": "ORD"
+  },
+  {
+    "B. NO.": 22,
+    "FROM": "AHMEDABAD",
+    "TO": "JODHPUR",
+    "VIA": "PALANPUR-PALI",
+    "DEPARTURE\nTIME": 7,
+    "ARRIVAL\nTIME": 18,
+    "DISTANCE": 479,
+    "BUS TYPE": "EXP"
+  },
+  {
+    "B. NO.": 23,
+    "FROM": "UPLAGARH",
+    "TO": "ABUROAD",
+    "VIA": "NATHDWARA",
+    "DEPARTURE\nTIME": 7,
+    "ARRIVAL\nTIME": 7.45,
+    "DISTANCE": 25,
+    "BUS TYPE": "ORD"
+  },
+  {
+    "B. NO.": 24,
+    "FROM": "REVDAR",
+    "TO": "BHINMAL",
+    "VIA": "RANIWARA",
+    "DEPARTURE\nTIME": 7,
+    "ARRIVAL\nTIME": 9.45,
+    "DISTANCE": 87,
+    "BUS TYPE": "ORD"
+  },
+  {
+    "B. NO.": 25,
+    "FROM": "BHINMAL",
+    "TO": "ABUROAD",
+    "VIA": "RANIWARA",
+    "DEPARTURE\nTIME": 7,
+    "ARRIVAL\nTIME": 10.45,
+    "DISTANCE": 123,
+    "BUS TYPE": "ORD"
+  },
+  {
+    "B. NO.": 26,
+    "FROM": "REVDAR",
+    "TO": "SIROHI",
+    "VIA": "ANADRA",
+    "DEPARTURE\nTIME": 7,
+    "ARRIVAL\nTIME": 8.3,
+    "DISTANCE": 54,
+    "BUS TYPE": "ORD"
+  },
+  {
+    "B. NO.": 27,
+    "FROM": "ABUROAD",
+    "TO": "SIROHI",
+    "VIA": "",
+    "DEPARTURE\nTIME": 7.15,
+    "ARRIVAL\nTIME": 9.15,
+    "DISTANCE": 71,
+    "BUS TYPE": "ORD"
+  },
+  {
+    "B. NO.": 28,
+    "FROM": "REVDAR",
+    "TO": "ABUROAD",
+    "VIA": "VASS",
+    "DEPARTURE\nTIME": 7.15,
+    "ARRIVAL\nTIME": 8.15,
+    "DISTANCE": 36,
+    "BUS TYPE": "ORD"
+  },
+  {
+    "B. NO.": 29,
+    "FROM": "ABUROAD",
+    "TO": "AMBAJI",
+    "VIA": "-",
+    "DEPARTURE\nTIME": 7.3,
+    "ARRIVAL\nTIME": 8.15,
+    "DISTANCE": 23,
+    "BUS TYPE": "ORD"
+  },
+  {
+    "B. NO.": 30,
+    "FROM": "MOUNT ABU",
+    "TO": "AHMEDABAD",
+    "VIA": "PALANPUR",
+    "DEPARTURE\nTIME": 7.3,
+    "ARRIVAL\nTIME": 13.15,
+    "DISTANCE": 240,
+    "BUS TYPE": "EXP"
+  },
+  {
+    "B. NO.": 31,
+    "FROM": "ABUROAD",
+    "TO": "MOUNT ABU",
+    "VIA": "-",
+    "DEPARTURE\nTIME": 7.3,
+    "ARRIVAL\nTIME": 8.45,
+    "DISTANCE": 27,
+    "BUS TYPE": "ORD"
+  },
+  {
+    "B. NO.": 32,
+    "FROM": "ABUROAD",
+    "TO": "UDAIPUR",
+    "VIA": "PINDWARA",
+    "DEPARTURE\nTIME": 7.3,
+    "ARRIVAL\nTIME": 10.3,
+    "DISTANCE": 157,
+    "BUS TYPE": "NON STOP"
+  },
+  {
+    "B. NO.": 33,
+    "FROM": "REVDAR",
+    "TO": "AMBAJI",
+    "VIA": "ABUROAD",
+    "DEPARTURE\nTIME": 7.3,
+    "ARRIVAL\nTIME": 9.15,
+    "DISTANCE": 59,
+    "BUS TYPE": "ORD"
+  },
+  {
+    "B. NO.": 34,
+    "FROM": "REVDAR",
+    "TO": "JODHPUR",
+    "VIA": "KAROTI-ANADRA",
+    "DEPARTURE\nTIME": 7.3,
+    "ARRIVAL\nTIME": 13.15,
+    "DISTANCE": 249,
+    "BUS TYPE": "EXP"
+  },
+  {
+    "B. NO.": 35,
+    "FROM": "ABUROAD",
+    "TO": "BHINMAL",
+    "VIA": "RANIWARA",
+    "DEPARTURE\nTIME": 7.45,
+    "ARRIVAL\nTIME": 12.45,
+    "DISTANCE": 146,
+    "BUS TYPE": "ORD"
+  },
+  {
+    "B. NO.": 36,
+    "FROM": "ABUROAD",
+    "TO": "MOUNT ABU",
+    "VIA": "-",
+    "DEPARTURE\nTIME": 7.45,
+    "ARRIVAL\nTIME": 8.45,
+    "DISTANCE": 27,
+    "BUS TYPE": "EXP"
+  },
+  {
+    "B. NO.": 37,
+    "FROM": "ABUROAD",
+    "TO": "DANTA",
+    "VIA": "AMBAJI",
+    "DEPARTURE\nTIME": 8,
+    "ARRIVAL\nTIME": 9.3,
+    "DISTANCE": 44,
+    "BUS TYPE": "ORD"
+  },
+  {
+    "B. NO.": 38,
+    "FROM": "AMBAJI",
+    "TO": "JAMBUDI",
+    "VIA": "-",
+    "DEPARTURE\nTIME": 8,
+    "ARRIVAL\nTIME": 8.25,
+    "DISTANCE": 16,
+    "BUS TYPE": "ORD"
+  },
+  {
+    "B. NO.": 39,
+    "FROM": "BASWADA",
+    "TO": "ABUROAD",
+    "VIA": "UDAIPUR",
+    "DEPARTURE\nTIME": 8,
+    "ARRIVAL\nTIME": 16.45,
+    "DISTANCE": 320,
+    "BUS TYPE": "EXP"
+  },
+  {
+    "B. NO.": 40,
+    "FROM": "MOUNT ABU",
+    "TO": "UDAIPUR",
+    "VIA": "PINDWARA",
+    "DEPARTURE\nTIME": 8,
+    "ARRIVAL\nTIME": 12.45,
+    "DISTANCE": 184,
+    "BUS TYPE": "STAR LINE"
+  },
+  {
+    "B. NO.": 41,
+    "FROM": "BARMER",
+    "TO": "ABUROAD",
+    "VIA": "SANATHDWARAOR",
+    "DEPARTURE\nTIME": 8,
+    "ARRIVAL\nTIME": 15.3,
+    "DISTANCE": 265,
+    "BUS TYPE": "EXP"
+  },
+  {
+    "B. NO.": 42,
+    "FROM": "ABUROAD",
+    "TO": "REVDAR",
+    "VIA": "VASS",
+    "DEPARTURE\nTIME": 8,
+    "ARRIVAL\nTIME": 9,
+    "DISTANCE": 36,
+    "BUS TYPE": "ORD"
+  },
+  {
+    "B. NO.": 43,
+    "FROM": "BHINMAL",
+    "TO": "ABUROAD",
+    "VIA": "RANIWARA",
+    "DEPARTURE\nTIME": 8,
+    "ARRIVAL\nTIME": 11.45,
+    "DISTANCE": 123,
+    "BUS TYPE": "ORD"
+  },
+  {
+    "B. NO.": 44,
+    "FROM": "REVDAR",
+    "TO": "ABUROAD",
+    "VIA": "-",
+    "DEPARTURE\nTIME": 8.15,
+    "ARRIVAL\nTIME": 9.15,
+    "DISTANCE": 36,
+    "BUS TYPE": "ORD"
+  },
+  {
+    "B. NO.": 45,
+    "FROM": "REVDAR",
+    "TO": "BARODA",
+    "VIA": "PALANPUR-AHMEDABAD",
+    "DEPARTURE\nTIME": 8.3,
+    "ARRIVAL\nTIME": 17.3,
+    "DISTANCE": 361,
+    "BUS TYPE": "EXP"
+  },
+  {
+    "B. NO.": 46,
+    "FROM": "ABUROAD",
+    "TO": "MOUNT ABU",
+    "VIA": "-",
+    "DEPARTURE\nTIME": 8.3,
+    "ARRIVAL\nTIME": 9.45,
+    "DISTANCE": 27,
+    "BUS TYPE": "ORD"
+  },
+  {
+    "B. NO.": 47,
+    "FROM": "AMBAJI",
+    "TO": "UDAIPUR",
+    "VIA": "PINDWARA",
+    "DEPARTURE\nTIME": 8.3,
+    "ARRIVAL\nTIME": 13.3,
+    "DISTANCE": 180,
+    "BUS TYPE": "EXP"
+  },
+  {
+    "B. NO.": 48,
+    "FROM": "ABUROAD",
+    "TO": "JAIPUR",
+    "VIA": "PALI",
+    "DEPARTURE\nTIME": 8.3,
+    "ARRIVAL\nTIME": 20,
+    "DISTANCE": 492,
+    "BUS TYPE": "EXP"
+  },
+  {
+    "B. NO.": 49,
+    "FROM": "ABUROAD",
+    "TO": "RANIWARA",
+    "VIA": "REVDAR",
+    "DEPARTURE\nTIME": 8.3,
+    "ARRIVAL\nTIME": 11.15,
+    "DISTANCE": 83,
+    "BUS TYPE": "ORD"
+  },
+  {
+    "B. NO.": 50,
+    "FROM": "JAMBUDI",
+    "TO": "ABUROAD",
+    "VIA": "-",
+    "DEPARTURE\nTIME": 8.35,
+    "ARRIVAL\nTIME": 10.15,
+    "DISTANCE": 39,
+    "BUS TYPE": "ORD"
+  },
+  {
+    "B. NO.": 51,
+    "FROM": "AMBAJI",
+    "TO": "MOUNT ABU",
+    "VIA": "ABUROAD",
+    "DEPARTURE\nTIME": 8.45,
+    "ARRIVAL\nTIME": 11.15,
+    "DISTANCE": 50,
+    "BUS TYPE": "ORD"
+  },
+  {
+    "B. NO.": 52,
+    "FROM": "UDAIPUR",
+    "TO": "ABUROAD",
+    "VIA": "PINDWARA",
+    "DEPARTURE\nTIME": 8.45,
+    "ARRIVAL\nTIME": 12.3,
+    "DISTANCE": 157,
+    "BUS TYPE": "EXP"
+  },
+  {
+    "B. NO.": 53,
+    "FROM": "REVDAR",
+    "TO": "MANADRAAR",
+    "VIA": "-",
+    "DEPARTURE\nTIME": 8.45,
+    "ARRIVAL\nTIME": 9.15,
+    "DISTANCE": 17,
+    "BUS TYPE": "ORD"
+  },
+  {
+    "B. NO.": 54,
+    "FROM": "ABUROAD",
+    "TO": "AMBAJI",
+    "VIA": "-",
+    "DEPARTURE\nTIME": 9,
+    "ARRIVAL\nTIME": 10,
+    "DISTANCE": 23,
+    "BUS TYPE": "ORD"
+  },
+  {
+    "B. NO.": 55,
+    "FROM": "ABUROAD",
+    "TO": "JODHPUR",
+    "VIA": "PALI",
+    "DEPARTURE\nTIME": 9,
+    "ARRIVAL\nTIME": 15,
+    "DISTANCE": 266,
+    "BUS TYPE": "EXP"
+  },
+  {
+    "B. NO.": 56,
+    "FROM": "MOUNT ABU",
+    "TO": "BASWADA",
+    "VIA": "UDAIPUR",
+    "DEPARTURE\nTIME": 9.15,
+    "ARRIVAL\nTIME": 19.4,
+    "DISTANCE": 347,
+    "BUS TYPE": "EXP"
+  },
+  {
+    "B. NO.": 57,
+    "FROM": "JODHPUR",
+    "TO": "ABUROAD",
+    "VIA": "PALI",
+    "DEPARTURE\nTIME": 9.15,
+    "ARRIVAL\nTIME": 15.15,
+    "DISTANCE": 266,
+    "BUS TYPE": "EXP"
+  },
+  {
+    "B. NO.": 58,
+    "FROM": "REVDAR",
+    "TO": "ABUROAD",
+    "VIA": "VASS",
+    "DEPARTURE\nTIME": 9.15,
+    "ARRIVAL\nTIME": 10.15,
+    "DISTANCE": 36,
+    "BUS TYPE": "ORD"
+  },
+  {
+    "B. NO.": 59,
+    "FROM": "SIRHO",
+    "TO": "REVDAR",
+    "VIA": "ANADRA",
+    "DEPARTURE\nTIME": 9.15,
+    "ARRIVAL\nTIME": 10.45,
+    "DISTANCE": 54,
+    "BUS TYPE": "ORD"
+  },
+  {
+    "B. NO.": 60,
+    "FROM": "UDAIPUR",
+    "TO": "ABUROAD",
+    "VIA": "PINDWARA",
+    "DEPARTURE\nTIME": 9.3,
+    "ARRIVAL\nTIME": 12.3,
+    "DISTANCE": 157,
+    "BUS TYPE": "STAR LINE"
+  },
+  {
+    "B. NO.": 61,
+    "FROM": "MOUNT ABU",
+    "TO": "SIGHTSEEN",
+    "VIA": "-",
+    "DEPARTURE\nTIME": 9.3,
+    "ARRIVAL\nTIME": 18,
+    "DISTANCE": 66,
+    "BUS TYPE": "EXP"
+  },
+  {
+    "B. NO.": 62,
+    "FROM": "AMBAJI",
+    "TO": "MOUNT ABU",
+    "VIA": "ABUROAD",
+    "DEPARTURE\nTIME": 9.3,
+    "ARRIVAL\nTIME": 11.45,
+    "DISTANCE": 50,
+    "BUS TYPE": "ORD"
+  },
+  {
+    "B. NO.": 63,
+    "FROM": "MANADRAAR",
+    "TO": "JODHPUR",
+    "VIA": "KAROTI-ANADRA",
+    "DEPARTURE\nTIME": 9.3,
+    "ARRIVAL\nTIME": 16,
+    "DISTANCE": 266,
+    "BUS TYPE": "EXP"
+  },
+  {
+    "B. NO.": 64,
+    "FROM": "JAIPUR",
+    "TO": "ABUROAD",
+    "VIA": "PALI",
+    "DEPARTURE\nTIME": 9.34,
+    "ARRIVAL\nTIME": 21,
+    "DISTANCE": 495,
+    "BUS TYPE": "EXP"
+  },
+  {
+    "B. NO.": 65,
+    "FROM": "DANTA",
+    "TO": "ABUROAD",
+    "VIA": "AMBAJI",
+    "DEPARTURE\nTIME": 9.4,
+    "ARRIVAL\nTIME": 11.15,
+    "DISTANCE": 44,
+    "BUS TYPE": "ORD"
+  },
+  {
+    "B. NO.": 66,
+    "FROM": "SIROHI",
+    "TO": "ABUROAD",
+    "VIA": "",
+    "DEPARTURE\nTIME": 9.45,
+    "ARRIVAL\nTIME": 11.45,
+    "DISTANCE": 71,
+    "BUS TYPE": "ORD"
+  },
+  {
+    "B. NO.": 67,
+    "FROM": "ABUROAD",
+    "TO": "AMBAJI",
+    "VIA": "-",
+    "DEPARTURE\nTIME": 10,
+    "ARRIVAL\nTIME": 11,
+    "DISTANCE": 23,
+    "BUS TYPE": "ORD"
+  },
+  {
+    "B. NO.": 68,
+    "FROM": "ABUROAD",
+    "TO": "BHINMAL",
+    "VIA": "RANIWARA",
+    "DEPARTURE\nTIME": 10,
+    "ARRIVAL\nTIME": 13.45,
+    "DISTANCE": 123,
+    "BUS TYPE": "ORD"
+  },
+  {
+    "B. NO.": 69,
+    "FROM": "AMBAJI",
+    "TO": "UDAIPUR",
+    "VIA": "PINDWARA",
+    "DEPARTURE\nTIME": 10.15,
+    "ARRIVAL\nTIME": 15.15,
+    "DISTANCE": 180,
+    "BUS TYPE": "EXP"
+  },
+  {
+    "B. NO.": 70,
+    "FROM": "MOUNT ABU",
+    "TO": "AHMEDABAD",
+    "VIA": "PALANPUR",
+    "DEPARTURE\nTIME": 10.15,
+    "ARRIVAL\nTIME": 16,
+    "DISTANCE": 240,
+    "BUS TYPE": "EXP"
+  },
+  {
+    "B. NO.": 71,
+    "FROM": "ABUROAD",
+    "TO": "POSINA",
+    "VIA": "AMBAJI",
+    "DEPARTURE\nTIME": 10.3,
+    "ARRIVAL\nTIME": 12.45,
+    "DISTANCE": 61,
+    "BUS TYPE": "ORD"
+  },
+  {
+    "B. NO.": 72,
+    "FROM": "ABUROAD",
+    "TO": "JALORE",
+    "VIA": "SIROHI",
+    "DEPARTURE\nTIME": 10.3,
+    "ARRIVAL\nTIME": 14.3,
+    "DISTANCE": 150,
+    "BUS TYPE": "EXP"
+  },
+  {
+    "B. NO.": 73,
+    "FROM": "BHINMAL",
+    "TO": "AMBAJI",
+    "VIA": "RANIWARA",
+    "DEPARTURE\nTIME": 10.3,
+    "ARRIVAL\nTIME": 15.3,
+    "DISTANCE": 146,
+    "BUS TYPE": "ORD"
+  },
+  {
+    "B. NO.": 74,
+    "FROM": "ABUROAD",
+    "TO": "REVDAR",
+    "VIA": "VASS",
+    "DEPARTURE\nTIME": 10.3,
+    "ARRIVAL\nTIME": 11.3,
+    "DISTANCE": 36,
+    "BUS TYPE": "ORD"
+  },
+  {
+    "B. NO.": 75,
+    "FROM": "MOUNT ABU",
+    "TO": "ABUROAD",
+    "VIA": "-",
+    "DEPARTURE\nTIME": 10.45,
+    "ARRIVAL\nTIME": 11.45,
+    "DISTANCE": 27,
+    "BUS TYPE": "ORD"
+  },
+  {
+    "B. NO.": 76,
+    "FROM": "UDAIPUR",
+    "TO": "MOUNT ABU",
+    "VIA": "PINDWARA",
+    "DEPARTURE\nTIME": 10.45,
+    "ARRIVAL\nTIME": 15.3,
+    "DISTANCE": 184,
+    "BUS TYPE": "NON STOP"
+  },
+  {
+    "B. NO.": 77,
+    "FROM": "AHMEDABAD",
+    "TO": "JODHPUR",
+    "VIA": "PALANPUR-PALI",
+    "DEPARTURE\nTIME": 11,
+    "ARRIVAL\nTIME": 22.15,
+    "DISTANCE": 479,
+    "BUS TYPE": "EXP"
+  },
+  {
+    "B. NO.": 78,
+    "FROM": "ABUROAD",
+    "TO": "MOUNT ABU",
+    "VIA": "-",
+    "DEPARTURE\nTIME": 11,
+    "ARRIVAL\nTIME": 12.15,
+    "DISTANCE": 27,
+    "BUS TYPE": "ORD"
+  },
+  {
+    "B. NO.": 79,
+    "FROM": "ABUROAD",
+    "TO": "BARMER",
+    "VIA": "SANATHDWARAOR",
+    "DEPARTURE\nTIME": 11,
+    "ARRIVAL\nTIME": 17.3,
+    "DISTANCE": 265,
+    "BUS TYPE": "EXP"
+  },
+  {
+    "B. NO.": 80,
+    "FROM": "REVDAR",
+    "TO": "SIROHI",
+    "VIA": "ANADRA",
+    "DEPARTURE\nTIME": 11,
+    "ARRIVAL\nTIME": 12.15,
+    "DISTANCE": 54,
+    "BUS TYPE": "ORD"
+  },
+  {
+    "B. NO.": 81,
+    "FROM": "ABUROAD",
+    "TO": "DELHI",
+    "VIA": "PALI",
+    "DEPARTURE\nTIME": 11.3,
+    "ARRIVAL\nTIME": 7.2,
+    "DISTANCE": 797,
+    "BUS TYPE": "EXP"
+  },
+  {
+    "B. NO.": 82,
+    "FROM": "MOUNT ABU",
+    "TO": "ABUROAD",
+    "VIA": "-",
+    "DEPARTURE\nTIME": 11.3,
+    "ARRIVAL\nTIME": 12.3,
+    "DISTANCE": 27,
+    "BUS TYPE": "ORD"
+  },
+  {
+    "B. NO.": 83,
+    "FROM": "ABUROAD",
+    "TO": "AMBAJI",
+    "VIA": "-",
+    "DEPARTURE\nTIME": 11.3,
+    "ARRIVAL\nTIME": 12.3,
+    "DISTANCE": 23,
+    "BUS TYPE": "ORD"
+  },
+  {
+    "B. NO.": 84,
+    "FROM": "AMBAJI",
+    "TO": "MOUNT ABU",
+    "VIA": "-",
+    "DEPARTURE\nTIME": 11.45,
+    "ARRIVAL\nTIME": 14.15,
+    "DISTANCE": 50,
+    "BUS TYPE": "ORD"
+  },
+  {
+    "B. NO.": 85,
+    "FROM": "JODHPUR",
+    "TO": "ABUROAD",
+    "VIA": "PALI",
+    "DEPARTURE\nTIME": 11.45,
+    "ARRIVAL\nTIME": 17.45,
+    "DISTANCE": 266,
+    "BUS TYPE": "EXP"
+  },
+  {
+    "B. NO.": 86,
+    "FROM": "UDAIPUR",
+    "TO": "AMBAJI",
+    "VIA": "PINDWARA",
+    "DEPARTURE\nTIME": 12,
+    "ARRIVAL\nTIME": 17.3,
+    "DISTANCE": 180,
+    "BUS TYPE": "EXP"
+  },
+  {
+    "B. NO.": 87,
+    "FROM": "MOUNT ABU",
+    "TO": "AMBAJI",
+    "VIA": "ABUROAD",
+    "DEPARTURE\nTIME": 12,
+    "ARRIVAL\nTIME": 14.15,
+    "DISTANCE": 50,
+    "BUS TYPE": "ORD"
+  },
+  {
+    "B. NO.": 88,
+    "FROM": "RANIWARA",
+    "TO": "ABUROAD",
+    "VIA": "REVDAR",
+    "DEPARTURE\nTIME": 12,
+    "ARRIVAL\nTIME": 14.45,
+    "DISTANCE": 83,
+    "BUS TYPE": "ORD"
+  },
+  {
+    "B. NO.": 89,
+    "FROM": "ABUROAD",
+    "TO": "RANIWARA",
+    "VIA": "REVDAR",
+    "DEPARTURE\nTIME": 12,
+    "ARRIVAL\nTIME": 14.45,
+    "DISTANCE": 83,
+    "BUS TYPE": "ORD"
+  },
+  {
+    "B. NO.": 90,
+    "FROM": "REVDAR",
+    "TO": "ABUROAD",
+    "VIA": "VASS",
+    "DEPARTURE\nTIME": 12,
+    "ARRIVAL\nTIME": 13,
+    "DISTANCE": 36,
+    "BUS TYPE": "ORD"
+  },
+  {
+    "B. NO.": "",
+    "FROM": "",
+    "TO": "",
+    "VIA": "",
+    "DEPARTURE\nTIME": "",
+    "ARRIVAL\nTIME": "",
+    "DISTANCE": "",
+    "BUS TYPE": ""
+  },
+  {
+    "B. NO.": "",
+    "FROM": "",
+    "TO": "",
+    "VIA": "",
+    "DEPARTURE\nTIME": "",
+    "ARRIVAL\nTIME": "",
+    "DISTANCE": "",
+    "BUS TYPE": ""
+  },
+  {
+    "B. NO.": "",
+    "FROM": "",
+    "TO": "",
+    "VIA": "",
+    "DEPARTURE\nTIME": "",
+    "ARRIVAL\nTIME": "",
+    "DISTANCE": "",
+    "BUS TYPE": ""
+  },
+  {
+    "B. NO.": "",
+    "FROM": "",
+    "TO": "",
+    "VIA": "",
+    "DEPARTURE\nTIME": "",
+    "ARRIVAL\nTIME": "",
+    "DISTANCE": "",
+    "BUS TYPE": ""
+  },
+  {
+    "B. NO.": "",
+    "FROM": "",
+    "TO": "",
+    "VIA": "",
+    "DEPARTURE\nTIME": "",
+    "ARRIVAL\nTIME": "",
+    "DISTANCE": "",
+    "BUS TYPE": ""
+  }
+]
